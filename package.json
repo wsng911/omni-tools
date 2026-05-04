@@ -1,17 +1,8 @@
 {
-  "name": "omni-tools",
-  "description": "This project offers a variety of online tools to help with everyday tasks, \nall available for free and open for community contributions",
+  "name": "omni-tools-zh",
+  "description": "自托管在线工具集合，中文界面",
   "version": "0.1.0",
   "private": true,
-  "author": {
-    "name": "Ibrahima Gaye Coulibaly",
-    "email": "ibracool99@gmail.com",
-    "url": "https://github.com/iib0011"
-  },
-  "bugs": {
-    "url": "https://github.com/iib0011/omni-tools/issues",
-    "email": "ibracool99@gmail.com"
-  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
